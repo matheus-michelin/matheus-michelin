@@ -1,25 +1,48 @@
-# Matheus Michelin
-<a href="https://instagram.com/michelin_sk8" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusondev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusondev&show_icons=true&theme=dark)
-# Hello, Devs!
-What's up Devs, I'm 14 years old and i live in São Paulo, Brazil, and i'm beginner at programming.
+# 👋 Hey there, I'm Matheus Michelin!
 
 
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Matheusondev&show_icons=true&theme=dark" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusondev&layout=compact&theme=dark&langs_count=6" width="400"/></td>
+  </tr>
+</table>
 
-# Tools and Technologies
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/><img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/>        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>      
-          
+---
 
-I'm learning, at this moment, is Java.
+## 💻 About Me
+- 🧒 I'm 14 years old and based in São Paulo, Brazil 🇧🇷
+- 🚀 Just starting my journey into programming
+- 🎯 My goal is to become a **FullStack Developer**
+- 🛹 I love **Skateboarding** almost as much as **coding** — sometimes both at once (not recommended 😂)
 
-💻I want to be a FullStack Developer in the future!
+---
 
-  🤫🛹 / 💻 I love Skate and what I do, programming!
-   ## Contacts:
-<div>
+## 🔧 Tools & Technologies
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</div>
 
-<a href = "mailto:matheusmichelin890@proton.me"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>                
+---
+
+## 📖 Currently Learning
+- 📌 Java
+- 🛠️ Building cool stuff and experimenting with new tech!
+
+---
+
+## 📫 Get in Touch
+<a href="mailto:matheusmichelin890@proton.me"><img src="https://img.shields.io/badge/email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+
+---
+
+✨ _Thanks for stopping by — my journey is just beginning, but I’m here to build, learn, and have fun along the way!_
+
 
