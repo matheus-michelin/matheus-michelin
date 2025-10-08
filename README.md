@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Matheus Michelin!
+# 👋 Matheus Michelin
 
 
 <table>
@@ -33,7 +33,7 @@
 ---
 
 ## 📖 Currently Learning
-- 📌 Java
+- 📌 Java 
 - 🛠️ Building cool stuff and experimenting with new tech!
 
 ---
