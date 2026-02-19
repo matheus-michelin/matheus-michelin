@@ -11,7 +11,7 @@
 ---
 
 ## 💻 About Me
-- 🧒 I'm 14 years old and based in São Paulo, Brazil 🇧🇷
+- 🧒 I'm 15 years old and based in São Paulo, Brazil 🇧🇷
 - 🚀 Just starting my journey into programming
 - 🎯 My goal is to become a **FullStack Developer**
 - 🛹 I love **Skateboarding** almost as much as **coding** — sometimes both at once
@@ -44,5 +44,6 @@
 ---
 
 ✨ _Thanks for stopping by — my journey is just beginning, but I’m here to build, learn, and have fun along the way!_
+
 
 
